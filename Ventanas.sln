@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ventanas", "Ventanas\Ventanas.csproj", "{A400EC26-90A8-431A-8908-6A411069AB8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A400EC26-90A8-431A-8908-6A411069AB8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A400EC26-90A8-431A-8908-6A411069AB8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A400EC26-90A8-431A-8908-6A411069AB8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A400EC26-90A8-431A-8908-6A411069AB8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D933272A-627C-4B96-816B-5D8A8B67C44E}
+	EndGlobalSection
+EndGlobal
